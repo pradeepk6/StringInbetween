@@ -1,2 +1,6 @@
-Simple Stream-Tokenizer in Java.  
-Best called StringInBetween rather than StreamTokenizer
+####
+Java code sample of a Simple Stream-Tokenizer 
+
+
+####
+Parameterized tests in both JUnit and TestNG:  
